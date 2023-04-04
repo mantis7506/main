@@ -28,6 +28,10 @@ body {
     display: flex;
 }
 
+.info1 {
+    display: inline;
+}
+
 h1 {
     color: #000;
 }
@@ -47,7 +51,6 @@ h1 {
 }
 
 .lnk {
-    margin-left: 40px;
     color: #000;
 }
 
